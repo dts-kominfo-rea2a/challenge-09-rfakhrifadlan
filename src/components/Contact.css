@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  margin-top: 2em;
+  text-align: center;
+  background-color: #ffffff;
+  width: 50%;
+  border-radius: 2em;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.card-body {
+  padding: 2em 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5em;
+}
+
+.foto img {
+  border-radius: 50%;
+}

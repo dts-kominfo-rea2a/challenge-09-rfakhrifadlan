@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  background-color: #64c176;
+  color: #ffffff;
+  width: 50%;
+  padding: 2em 0;
+  border-radius: 2em;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
